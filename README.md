@@ -1,4 +1,5 @@
 # Pokedex
+
 ![preview](./preview-desktop.png)
 
 ![preview](./preview-mobile.jpg)
