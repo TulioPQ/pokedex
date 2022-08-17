@@ -4,7 +4,7 @@ link: https://pokedex-git-main-tuliopq.vercel.app/
 
 ![preview](./preview-desktop.png)
 
-![preview](./preview-mobile.jpg)
+![preview](./preview-mobile.jpg | width=50)
 
 ## Descrição
 
